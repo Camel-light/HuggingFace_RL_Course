@@ -6,10 +6,10 @@ Exercises from the [Hugging Face Deep RL Course](https://huggingface.co/learn/de
 
 ## 📚 Contents  
 
-- [Unit 0. Welcome to the course](#)  
+- Unit 0. Welcome to the course
 - [Unit 1. Introduction to Deep Reinforcement Learning](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit1/unit1.ipynb)  
 - [Bonus Unit 1. Introduction to Deep Reinforcement Learning with Huggy](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/bonus-unit1/bonus-unit1.ipynb)  
-- [Live 1. How the course works, Q&A, and playing with Huggy](#)  
+- Live 1. How the course works, Q&A, and playing with Huggy  
 - [Unit 2. Introduction to Q-Learning](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit2/unit2.ipynb)
 - [Unit 3. Deep Q-Learning with Atari Games](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit3/unit3.ipynb)  
 - [Bonus Unit 2. Automatic Hyperparameter Tuning with Optuna](#)  

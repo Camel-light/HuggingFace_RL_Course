@@ -1,6 +1,6 @@
-# 🤖 RL Course Exercises – Hugging Face  
+# 🤖 RL Course Exercises
 
-Exercises from the [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course), designed for Google Colab. (Not all units have exercises)
+From the [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course), in Google Colab.
 
 ---
 

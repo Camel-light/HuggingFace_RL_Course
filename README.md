@@ -13,7 +13,7 @@ Exercises from the [Hugging Face Deep RL Course](https://huggingface.co/learn/de
 - [Unit 2. Introduction to Q-Learning](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit2/unit2.ipynb)
 - [Unit 3. Deep Q-Learning with Atari Games](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit3/unit3.ipynb)  
 - [Bonus Unit 2. Automatic Hyperparameter Tuning with Optuna](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/bonus-unit2/bonus-unit2.ipynb)  
-- [Unit 4. Policy Gradient with PyTorch](#)  
+- [Unit 4. Policy Gradient with PyTorch](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit4/unit4.ipynb)  
 - [Unit 5. Introduction to Unity ML-Agents](#)  
 - [Unit 6. Actor-Critic Methods with Robotics Environments](#)  
 - [Unit 7. Introduction to Multi-Agents and AI vs AI](#)  

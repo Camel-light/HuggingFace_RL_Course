@@ -2,7 +2,7 @@
 
 From the [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course), in Google Colab.
 
-📈[Check progress](https://huggingface.co/spaces/yesbut/Check-my-progress-Deep-RL-Course)
+🡆[Check progress](https://huggingface.co/spaces/yesbut/Check-my-progress-Deep-RL-Course)📈
 
 ---
 

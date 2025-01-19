@@ -17,7 +17,7 @@ From the [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-cour
 - [Bonus Unit 2. Automatic Hyperparameter Tuning with Optuna](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/bonus-unit2/bonus-unit2.ipynb)  
 - [Unit 4. Policy Gradient with PyTorch](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit4/unit4.ipynb)  
 - [Unit 5. Introduction to Unity ML-Agents](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit5/unit5.ipynb)  
-- [Unit 6. Actor-Critic Methods with Robotics Environments](#)  
+- [Unit 6. Actor-Critic Methods with Robotics Environments](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit6/unit6.ipynb)  
 - [Unit 7. Introduction to Multi-Agents and AI vs AI](#)  
 - [Unit 8 Part 1. Proximal Policy Optimization (PPO)](#)  
 - [Unit 8 Part 2. Proximal Policy Optimization (PPO) with Doom](#)  

@@ -19,7 +19,7 @@ From the [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-cour
 - [Unit 5. Introduction to Unity ML-Agents](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit5/unit5.ipynb)  
 - [Unit 6. Actor-Critic Methods with Robotics Environments](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit6/unit6.ipynb)  
 - [Unit 7. Introduction to Multi-Agents and AI vs AI](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit7/unit7.ipynb)  
-- [Unit 8 Part 1. Proximal Policy Optimization (PPO)](#)  
+- [Unit 8 Part 1. Proximal Policy Optimization (PPO)](https://github.com/Camel-light/Assignments/blob/main/notebooks/unit8/unit8_part1.ipynb)  
 - [Unit 8 Part 2. Proximal Policy Optimization (PPO) with Doom](#)  
 - [Bonus Unit 3. Advanced Topics in Reinforcement Learning](#)  
 - [Bonus Unit 5. Imitation Learning with Godot RL Agents](#)  

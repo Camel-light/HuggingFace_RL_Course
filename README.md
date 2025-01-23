@@ -21,7 +21,7 @@ From the [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-cour
 - [Unit 7. Introduction to Multi-Agents and AI vs AI](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit7/unit7.ipynb)  
 - [Unit 8 Part 1. Proximal Policy Optimization (PPO)](https://github.com/Camel-light/Assignments/blob/main/notebooks/unit8/unit8_part1.ipynb)  
 - [Unit 8 Part 2. Proximal Policy Optimization (PPO) with Doom](https://github.com/Camel-light/HuggingFace_RL_Course/blob/main/notebooks/unit8/unit8_part2.ipynb)  
-- [Bonus Unit 3. Advanced Topics in Reinforcement Learning](#)  
-- [Bonus Unit 5. Imitation Learning with Godot RL Agents](#)  
+- [Bonus Unit 3. Advanced Topics in Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unitbonus3/introduction)  
+- [Bonus Unit 5. Imitation Learning with Godot RL Agents](https://huggingface.co/learn/deep-rl-course/unitbonus5/introduction)  
 
 ---

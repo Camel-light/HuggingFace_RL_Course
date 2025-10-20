@@ -28,22 +28,21 @@ Since the automated system cannot access multiple repositories, you need to manu
 ### Quick Steps:
 
 1. **Get the file from Assignments repo:**
-   ```bash
-   # Navigate to: https://github.com/Camel-light/Assignments/blob/main/notebooks/unit8/unit8_part1.ipynb
-   # Click "Raw" and save the file, or clone the Assignments repo
-   ```
+   - Navigate to: https://github.com/Camel-light/Assignments/blob/main/notebooks/unit8/unit8_part1.ipynb
+   - Click "Raw" and save the file, or clone the Assignments repo
 
 2. **Add to HuggingFace_RL_Course repo:**
+   - Copy the file to the repository root path: `notebooks/unit8/unit8_part1.ipynb`
+   - Then commit and push:
    ```bash
-   # Copy the file to: HuggingFace_RL_Course/notebooks/unit8/unit8_part1.ipynb
    git add notebooks/unit8/unit8_part1.ipynb
    git commit -m "Add unit8_part1.ipynb from Assignments repo"
    git push
    ```
 
 3. **Remove from Assignments repo:**
+   - In the Assignments repository, remove the file:
    ```bash
-   # In the Assignments repo:
    git rm notebooks/unit8/unit8_part1.ipynb
    git commit -m "Remove unit8_part1.ipynb (moved to HuggingFace_RL_Course)"
    git push
